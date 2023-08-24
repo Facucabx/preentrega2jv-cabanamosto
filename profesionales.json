@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "Juan",
+        "servicio": "cerrajero",
+        "telefono": "555-1234",
+        "ubicacion": "San Nicolás, Buenos Aires, Argentina",
+        "serviciosOfrecidos": ["Apertura de puertas", "Cambio de cerraduras"]
+    },
+    {
+        "nombre": "Esteban",
+        "servicio": "cerrajero",
+        "telefono": "555-1234",
+        "ubicacion": "San Nicolás, Buenos Aires, Argentina",
+        "serviciosOfrecidos": ["Apertura de puertas", "Cambio de cerraduras"]
+    },
+    {
+        "nombre": "María",
+        "servicio": "electricista",
+        "telefono": "555-5678",
+        "ubicacion": "San Nicolás, Buenos Aires, Argentina",
+        "serviciosOfrecidos": ["Instalación eléctrica", "Reparación de cortocircuitos"]
+    },
+    {
+        "nombre": "Carlos",
+        "servicio": "fletes",
+        "telefono": "555-9876",
+        "ubicacion": "San Nicolás, Buenos Aires, Argentina",
+        "serviciosOfrecidos": ["Mudanzas locales", "Transporte de carga"]
+    },
+    {
+        "nombre": "Laura",
+        "servicio": "gasista",
+        "telefono": "555-4321",
+        "ubicacion": "San Nicolás, Buenos Aires, Argentina",
+        "serviciosOfrecidos": ["Reparación de gas", "Instalación de tuberías"]
+    },
+    {
+        "nombre": "Pedro",
+        "servicio": "veterinario",
+        "telefono": "555-7890",
+        "ubicacion": "San Nicolás, Buenos Aires, Argentina",
+        "serviciosOfrecidos": ["Consultas médicas", "Vacunación de mascotas"]
+    },
+    {
+        "nombre": "Ana",
+        "servicio": "tecnico",
+        "telefono": "555-5555",
+        "ubicacion": "San Nicolás, Buenos Aires, Argentina",
+        "serviciosOfrecidos": ["Reparación de electrodomésticos", "Mantenimiento preventivo"]
+    }
+]

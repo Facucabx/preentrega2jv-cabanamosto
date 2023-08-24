@@ -1,5 +1,19 @@
+*{
+  color: rgb(72, 155, 134);
+  font-family:'Courier New', Courier, monospace;
+
+}
+html{
+  background-color: rgba(13, 24, 31, 0.932);
+}
+
 .profesional {
-    border: 1px solid #ccc;
+
     padding: 10px;
     margin: 10px 0;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(13, 48, 114, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
   }
